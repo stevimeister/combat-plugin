@@ -1,3 +1,10 @@
+[![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/D426uQcCbV)
+[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://github.com/stevimeister/combat-plugin/releases/)
+[![GitHub forks](https://img.shields.io/github/forks/Naereen/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/stevimeister/combat-plugin/network/)
+[![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://github.com/stevimeister/combat-plugin/stargazers/)
+[![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://github.com/stevimeister/combat-plugin/watchers/)
+
+
 # Czym jest combat-plugin?
 * combat-plugin jest wtyczką na serwery Minecraft który ma za zadanie karać graczy którzy wyjdą z serwera podczas walki. Wtyczka działa na wersjach od 1.8.x aż do 1.16.x!
 
