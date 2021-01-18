@@ -1,6 +1,5 @@
 # Czym jest combat-plugin?
-* combat-plugin jest wtyczką na serwery Minecraft który ma za zadanie karać graczy którzy wyjdą z serwera podczas walki.
-* Plugin działa poprawnie na wersjach od 1.8.x aż do nowszych wersji!
+* combat-plugin jest wtyczką na serwery Minecraft który ma za zadanie karać graczy którzy wyjdą z serwera podczas walki. Wtyczka działa na wersjach od 1.8.x aż do 1.16.x!
 
 # Konfiguracja wtyczki
 ``` Yaml
