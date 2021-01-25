@@ -1,0 +1,17 @@
+actionBar:
+  symbol: '●'
+  colourOne: '&a'
+  colourTwo: '&7'
+  message: '&eANTY-LOGOUT &7{TIME} &7[{PATTERN}&7]'
+combat:
+  time: 20 # W sekundach
+  bypassPermission: 'combat-bypass' # Uprawnienie pozwalające graczu korzystać z zablokowanych komend oraz wylogowanie się z serwera podczas walki.
+  commands: # Lista odblokowanych komend podczas walki.
+    - '/msg'
+    - '/reply'
+    - '/efekty'
+messages:
+  started: '&4UWAGA!: &CJestes podczas walki, mozesz sie wylogowac za 20 sekund'
+  finished: '&aNie jesteś już podczas walki{N}&amożesz bezpiecznie się wylogować!' # Zmienna {N} oznacza oddzielenie pomiędzy title a subtitle.
+  combatLogged: '&8&l>> &4Gracz &c{NAME} &4wylogował się podczas walki!'
+  commandBlocked: '&8&l>> &4Nie możesz używać komendy &c{COMMAND} &4podczas walki!'
