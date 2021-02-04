@@ -1,13 +1,7 @@
 package me.stevimeister.combat.helper;
 
-import net.minecraft.server.v1_8_R3.ChatComponentText;
-import net.minecraft.server.v1_8_R3.PacketPlayOutChat;
-import net.minecraft.server.v1_8_R3.PacketPlayOutTitle;
-import net.minecraft.server.v1_8_R3.PlayerConnection;
 import org.bukkit.ChatColor;
 import org.bukkit.command.CommandSender;
-import org.bukkit.craftbukkit.v1_8_R3.entity.CraftPlayer;
-import org.bukkit.entity.Player;
 
 import java.util.Collection;
 
@@ -31,7 +25,7 @@ public final class ChatHelper {
             sendMessage(sender, text);
     }
 
-    public static void sendTitle(final Player player, final String title, final String subTitle) {
+    /*public static void sendTitle(final Player player, final String title, final String subTitle) {
         final PacketPlayOutTitle packetPlayOutTitle = new PacketPlayOutTitle(PacketPlayOutTitle.EnumTitleAction.TITLE, new ChatComponentText(colored(title)));
         final PacketPlayOutTitle packetPlayOutSubTitle = new PacketPlayOutTitle(PacketPlayOutTitle.EnumTitleAction.SUBTITLE, new ChatComponentText(colored(subTitle)));
         final PacketPlayOutTitle packetPlayOutTitleLength = new PacketPlayOutTitle(25, 50, 25);
@@ -45,5 +39,5 @@ public final class ChatHelper {
     public static void sendActionBar(final Player player, final String content) {
         final PacketPlayOutChat packet = new PacketPlayOutChat(new ChatComponentText(colored(content)), (byte) 2);
         ((CraftPlayer) player).getHandle().playerConnection.sendPacket(packet);
-    }
+    }*/
 }

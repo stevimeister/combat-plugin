@@ -1,9 +1,10 @@
 package me.stevimeister.combat.configuration.impl;
 
-import java.util.List;
-import java.util.concurrent.TimeUnit;
 import me.stevimeister.combat.configuration.Configuration;
 import me.stevimeister.combat.configuration.ConfigurationOption;
+
+import java.util.List;
+import java.util.concurrent.TimeUnit;
 
 /**
  * @author stevimeister on 05/01/2021
