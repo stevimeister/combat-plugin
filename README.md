@@ -1,5 +1,5 @@
 [![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/D426uQcCbV)
-[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://github.com/stevimeister/combat-plugin/releases/)
+[![GitHub release](https://img.shields.io/github/release/stevimeister/combat-plugin)](https://github.com/stevimeister/combat-plugin/releases/)
 [![bStats Players](https://img.shields.io/bstats/players/9894)](https://bstats.org/plugin/bukkit/combat-plugin/9894)
 [![bStats Players](https://img.shields.io/bstats/servers/9894)](https://bstats.org/plugin/bukkit/combat-plugin/9894)
 
