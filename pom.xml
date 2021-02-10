@@ -6,7 +6,7 @@
 
     <groupId>me.stevimeister.combat</groupId>
     <artifactId>combat-plugin</artifactId>
-    <version>1.1-SNAPSHOT</version>
+    <version>1.2-SNAPSHOT</version>
 
     <dependencies>
         <dependency>
